@@ -4,7 +4,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 1: Hello World with UI Elements
+## [Lesson 1: Hello World with UI Elements](/Lessons/L1.md)
 
 - **Objective**: Understand basic UI elements, layouts, and Kotlin syntax.
 - **App**: Create a "Hello World" app that changes text or color when a button is clicked.
@@ -16,7 +16,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 2: Simple Calculator
+## [Lesson 2: Simple Calculator](/Lessons/L2.md)
 
 - **Objective**: Implement a basic calculator with fundamental arithmetic operations.
 - **App**: Develop a calculator that performs addition, subtraction, multiplication, and division.
@@ -28,7 +28,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 3: To-Do List App
+## [Lesson 3: To-Do List App](/Lessons/L3.md)
 
 - **Objective**: Learn list management and basic data storage.
 - **App**: Build a To-Do list app that allows users to add, edit, and delete tasks.
@@ -40,7 +40,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 4: Weather App (Using an API)
+## [Lesson 4: Weather App (Using an API)](/Lessons/L4.md)
 
 - **Objective**: Work with APIs and network data.
 - **App**: Create an app that displays the current weather for the user’s location.
@@ -52,7 +52,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 5: Notes App with Image Support
+## [Lesson 5: Notes App with Image Support](/Lessons/L5.md)
 
 - **Objective**: Manage complex UI and work with device media.
 - **App**: A note-taking app that lets users add text and images to notes.
@@ -64,7 +64,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 6: Expense Tracker with Charts
+## [Lesson 6: Expense Tracker with Charts](/Lessons/L6.md)
 
 - **Objective**: Learn about data visualization and more advanced data storage.
 - **App**: Track daily expenses, categorize them, and display summaries with charts.
@@ -76,7 +76,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 7: Habit Tracker with Notifications
+## [Lesson 7: Habit Tracker with Notifications](/Lessons/L7.md)
 
 - **Objective**: Implement notifications and background tasks.
 - **App**: A habit tracker that sends reminders to users to complete daily habits.
@@ -88,7 +88,7 @@ Welcome to this progressive series of lessons for learning Android app developme
 
 ---
 
-## Lesson 8: Messaging App with Firebase
+## [Lesson 8: Messaging App with Firebase](/Lessons/L8.md)
 
 - **Objective**: Dive into real-time databases and cloud integration.
 - **App**: Develop a simple messaging app where users can communicate in real-time.
